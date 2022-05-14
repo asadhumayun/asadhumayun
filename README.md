@@ -1,4 +1,3 @@
-Hi there!
-
-I'm a studeny currently studying Computer Science!
-Would love to get gud at maths tho :/
+- Prolific Nerd & Notorious Overthinker
+- 'A'-level student currently studying Chemistry, Biology, and Computer Science
+- Dream job: Software Engineer
