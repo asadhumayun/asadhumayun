@@ -3,9 +3,8 @@
 
 Displaying no info atm, I can only assume due to a lack of data
 --->
-- Prolific Nerd & Notorious Overthinker
-- 'A'-level student currently studying Chemistry, Biology, and Computer Science
-- Dream job: Software Engineer
+- Notorious overthinker 
+- Engineering student 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asadhumayun&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=react)
 
