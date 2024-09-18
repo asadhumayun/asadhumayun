@@ -3,7 +3,7 @@
 
 Displaying no info atm, I can only assume due to a lack of data
 --->
-- Engineering student 
+- Passionate Software Engineering Student
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asadhumayun&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=react)
 
